@@ -12,7 +12,7 @@ class DashboardController extends Controller
 {
     $totalOrders = Order::count();
     $totalLaptops = Laptop::sum('stock');
-    $totalComponents = Component::count();
+    $totalComponents = Component::sum('stock');
     $totalIncome = Order::sum('total_price');
 
     $recentOrders = Order::latest()->take(5)->get();
