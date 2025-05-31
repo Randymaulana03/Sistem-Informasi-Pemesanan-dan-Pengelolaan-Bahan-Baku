@@ -52,7 +52,9 @@ NOTE* COMPOSSER UDAH TERINSTALL<br>
 
 
 --------------------------------------------------------------------------------------------
-## Deskripsi dan tampilan
+## 2. Deskripsi dan tampilan
+**Deskripsi**
+**Tampilan**
 ### 1. Admin (Pegawai)
 ### 2. User (Pembeli/Pelanggan)
 
