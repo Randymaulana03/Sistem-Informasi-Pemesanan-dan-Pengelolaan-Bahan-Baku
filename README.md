@@ -117,13 +117,13 @@ Pengguna dapat melakukan pemesanan laptop secara langsung melalui sistem, serta 
       Disini user bisa lihat stok laptop yang ready yang dimana tertera harga dan juga spesifikasinya, kanan atas ada logout akun dan juga ada nama dari current user, user juga bisa order disini<br><br>
           - Dashboard/Order Sekarang
           ![image](https://github.com/user-attachments/assets/3028a4bb-1d15-4969-ab27-86df645f01b6)
-          disini user bisa memasukkan form data diri seperti nama, alamat dan juga nomor hp, ada metode pembayaran dan juga ceklis laptop yang ingin dibeli
+          disini user bisa memasukkan form data diri seperti nama, alamat dan juga nomor hp, ada metode pembayaran dan juga ceklis laptop yang ingin dibeli<br><br>
           - Order/Detail pesanan
           ![Screenshot 2025-05-31 174100](https://github.com/user-attachments/assets/b8710c29-c7cb-4dd9-905f-40bbc9f66f4c)
-          Disini bisa melihat invoice detail pesanan yang dibuat dan bisa download bukti via pdf
+          Disini bisa melihat invoice detail pesanan yang dibuat dan bisa download bukti via pdf<br><br>
           - Invoice PDF
           ![image](https://github.com/user-attachments/assets/17cf42c1-3670-4929-8fc3-653889716ba1)
-          terdapat data detail dari semua nya ada data user bahkan barang yang dibeli dengan sub total harga
+          terdapat data detail dari semua nya ada data user bahkan barang yang dibeli dengan sub total harga<br><br>
           - Order
           ![image](https://github.com/user-attachments/assets/03748f85-b62b-4a79-b530-1aa99bdfde82)
           terdapat beberapa aksi yang bisa dilakukan user apakah untuk detail yang di direct ke invoice dan juga bisa membatalkan pesanan
