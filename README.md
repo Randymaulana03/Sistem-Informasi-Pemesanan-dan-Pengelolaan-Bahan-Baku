@@ -9,3 +9,4 @@ Link PPT: https://www.canva.com/design/DAGo6SDRLY4/gYpDMNnOCsSSdAHNuMBcJA/edit?u
 Proses pembuatan<br>
 cd www dari LARAGON<br>
 buka cmd dan ketik command composer create-project laravel/laravel sistem-pemesanan-BahanBaku<br>
+NOTE* COMPOSSER UDAH TERINSTALL<br>
