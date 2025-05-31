@@ -10,3 +10,4 @@ Proses pembuatan<br>
 cd www dari LARAGON<br>
 buka cmd dan ketik command composer create-project laravel/laravel sistem-pemesanan-BahanBaku<br>
 NOTE* COMPOSSER UDAH TERINSTALL<br>
+kalau belum ketik command "composer install" <br>
