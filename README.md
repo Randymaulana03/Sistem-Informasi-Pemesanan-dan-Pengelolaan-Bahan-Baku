@@ -67,7 +67,7 @@ Pengguna dapat melakukan pemesanan laptop secara langsung melalui sistem, serta 
       ![image](https://github.com/user-attachments/assets/0bb6ff89-78bb-4929-9d79-2670394d43f0)
       Admin (pegawai) tidak ada fitur registrasi kenapa? karena orang dalam tidak perlu registrasi sebab developer langsung memberikan superadmin ke para pegawai agar bisa login. Disini admin diminta username dan juga password
     - Dashboard
-      ![image](https://github.com/user-attachments/assets/c71fa22f-b903-4158-ac76-d4cbdcdf3f9a)
+      ![image](https://github.com/user-attachments/assets/96291637-c356-4f7c-a1cb-77cc9cdc3974)
       Memberikan informasi mengenai berapa jumlah pesanan, berapa laptop yang tersedia, komponen yang tersedia di gudang bahkan total pendapatan dari semua pesanan<br>
       Ada navigasi untuk menuju ke komponen dan laptop
     - Komponen
