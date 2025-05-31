@@ -63,6 +63,10 @@ Pengguna dapat melakukan pemesanan laptop secara langsung melalui sistem, serta 
 
 **Tampilan**
  1. Admin (Pegawai)
+    - Halaman Login
+      ![image](https://github.com/user-attachments/assets/0bb6ff89-78bb-4929-9d79-2670394d43f0)
+      Admin (pegawai) tidak ada fitur registrasi kenapa? karena orang dalam tidak perlu registrasi sebab developer langsung memberikan superadmin ke para pegawai agar bisa login
+
 
  3. User (Pembeli/Pelanggan)
 
