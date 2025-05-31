@@ -8,7 +8,7 @@ Link PPT: https://www.canva.com/design/DAGo6SDRLY4/gYpDMNnOCsSSdAHNuMBcJA/edit?u
 --------------------------------------------------------------------------------------------
 # ---------------Table of Content------------------<br>
 # 1. [Proses Pembuatan](#proses-pembuatan)
-# 2. [Deskripsi dan Tampilan](#deskripsi-dan-tampilan) <br>
+# 2. [Deskripsi dan Tampilan](#deskripsi-dan-tampilan)
 
 -------------------------------------------------------------------------------------------------------<br>
 
