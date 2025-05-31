@@ -73,9 +73,7 @@ Pengguna dapat melakukan pemesanan laptop secara langsung melalui sistem, serta 
     - Komponen
       ![image](https://github.com/user-attachments/assets/fa9b74cd-9651-4f8a-b2de-3d26ce9a103d)
       menampilkan daftar komponen yang tersedia, disini bisa mencari sesuai jenis komponen misal RAM, hanya menampilkan RAM saja <br>
-      semua komponen tersusun dengan rapi dengan field Nama, Jenis, Stok, Harga Per Unit, Serta Aksi yang dimana bisa edit dan juga hapus
-   
-      
+      semua komponen tersusun dengan rapi dengan field Nama, Jenis, Stok, Harga Per Unit, Serta Aksi yang dimana bisa edit dan juga hapus<br>
           - Komponen/Tambah Komponen
         ![image](https://github.com/user-attachments/assets/3ff5ffab-e5b6-4943-9f74-e8ca3e3234f4)
         Merupakan form untuk menambahkan nama komponen, jenis nya apa, stok ada berapa dan harga per unit, ketika di klik tombol simpan maka akan tersedia di daftar komponen
