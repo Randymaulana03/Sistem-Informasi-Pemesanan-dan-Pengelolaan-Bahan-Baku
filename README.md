@@ -14,3 +14,5 @@ kalau belum download setup nya disini => "https://getcomposer.org/download/" <br
 
 1. Buat database di phpmyadmin dengan nama laptop_order_db
    ![image](https://github.com/user-attachments/assets/7ee4498e-7313-45a3-b95a-ac9a58831159)
+2. di .env hubungkan dengan database yang baru kita buat tadi
+   ![Uploading image.png…]()
