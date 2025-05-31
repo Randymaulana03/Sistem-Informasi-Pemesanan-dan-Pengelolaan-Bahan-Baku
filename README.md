@@ -12,11 +12,11 @@ Link PPT: https://www.canva.com/design/DAGo6SDRLY4/gYpDMNnOCsSSdAHNuMBcJA/edit?u
 
 -------------------------------------------------------------------------------------------------------<br>
 
-## Proses pembuatan
-cd www dari LARAGON<br>
-buka cmd dan ketik command composer create-project laravel/laravel sistem-pemesanan-BahanBaku<br>
+## 1. Proses pembuatan
+- cd www dari LARAGON<br>
+- buka cmd dan ketik command composer create-project laravel/laravel sistem-pemesanan-BahanBaku<br>
 NOTE* COMPOSSER UDAH TERINSTALL<br>
-kalau belum download setup nya disini => "https://getcomposer.org/download/" <br>
+- kalau belum download setup nya disini => "https://getcomposer.org/download/" <br>
 
 1. Buat database di phpmyadmin dengan nama laptop_order_db(hanya buat nama database, untuk table akan di buat otomatis ketika buat model dan migrasi) <br>
    ![image](https://github.com/user-attachments/assets/7ee4498e-7313-45a3-b95a-ac9a58831159)
@@ -28,18 +28,18 @@ kalau belum download setup nya disini => "https://getcomposer.org/download/" <br
    ![image](https://github.com/user-attachments/assets/1abdf519-83a8-49ea-b3be-fef866759e75)
 
 4. buat component controller<br>
-   "php artisan make:controller ComponentController" => akan otomatis membuat file app/Http/Controllers/ComponentController.php<br>
-   dan menambahkan code<br>
+   - "php artisan make:controller ComponentController" => akan otomatis membuat file app/Http/Controllers/ComponentController.php<br>
+   - dan menambahkan code<br>
    "Route::resource('components', ComponentController::class);" di routes/web.php<br>
    
 5. buat model laptop<br>
-   "php artisan make:model Laptop" => akan membuat file di app/Models/Laptop.php<br>
-   semua model buat, model order dan juga user sama juga<br>
-   lalu tambahkan controller<br>
+   - "php artisan make:model Laptop" => akan membuat file di app/Models/Laptop.php<br>
+   - semua model buat, model order dan juga user sama juga<br>
+   - lalu tambahkan controller<br>
    contoh untuk controller laptop<br>
-   "php artisan make:controller LaptopController" begitu pun lainnya<br>
-   jangan lupa bikin struktur table nya dengan "php artisan make:migration create_laptops_table"<br>
-   akhiri dengan "php artisan migrate"di terminal agar semua model dan migration, bahkan migration relation hadir di database seperti pada gambar no.1<br>
+   - "php artisan make:controller LaptopController" begitu pun lainnya<br>
+   - jangan lupa bikin struktur table nya dengan "php artisan make:migration create_laptops_table"<br>
+   - akhiri dengan "php artisan migrate"di terminal agar semua model dan migration, bahkan migration relation hadir di database seperti pada gambar no.1<br>
 
 6. intinya gini struktur yang tepat<br>
    - buat migrasi dulu buat struktur tabel di database<br>
