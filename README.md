@@ -59,10 +59,12 @@ Sistem ini dirancang untuk mengelola proses pemesanan serta pengolahan bahan bak
 
 Pada saat proses perakitan laptop berlangsung, stok komponen akan otomatis berkurang sesuai penggunaan, dan produk laptop yang telah selesai dirakit akan ditampilkan pada halaman pengguna lengkap dengan harga jualnya
 
-Pengguna dapat melakukan pemesanan laptop secara langsung melalui sistem, serta mengunduh invoice pemesanan dalam format PDF sebagai bukti transaksi
+Pengguna dapat melakukan pemesanan laptop secara langsung melalui sistem, serta mengunduh invoice pemesanan dalam format PDF sebagai bukti transaksi<br>
+
 **Tampilan**
  1. Admin (Pegawai)
- 2. User (Pembeli/Pelanggan)
+
+ 3. User (Pembeli/Pelanggan)
 
 
 
