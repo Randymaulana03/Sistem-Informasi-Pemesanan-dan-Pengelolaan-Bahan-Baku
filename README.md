@@ -5,7 +5,8 @@ NPM: 2308107010054
 Link Youtube: https://youtu.be/Jf66aCC_5FM <br>
 Link PPT: https://www.canva.com/design/DAGo6SDRLY4/gYpDMNnOCsSSdAHNuMBcJA/edit?utm_content=DAGo6SDRLY4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-DI DEMO YOUTUBE ADA BUG DI DASHBOARD ADMIN KOMPONEN, sudah di perbaiki upload file ulang (app\Http\Controllers\DashboardController.php)
+DI DEMO YOUTUBE ADA BUG DI DASHBOARD ADMIN KOMPONEN, bug berupa komponen tidak menampilkan stock secara realtime
+sudah di perbaiki upload file ulang (app\Http\Controllers\DashboardController.php)
 
 --------------------------------------------------------------------------------------------
 # ---------------Table of Content------------------<br>
