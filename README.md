@@ -130,7 +130,7 @@ Pengguna dapat melakukan pemesanan laptop secara langsung melalui sistem, serta 
 
 
     - Bonus (Dashboard Admin)
-      ![image](https://github.com/user-attachments/assets/d5a62904-2de3-4930-b03b-46ad300647c7)
+      ![image](https://github.com/user-attachments/assets/6961df08-5f48-49e9-9349-3ee554da868e)
       ketika pesanan dibuat maka di halaman admin dashboard terlihat jumlah pesanan bertambah, laptop yang berkurang dan juga total pendapatan dari user yang memesan
 
 
