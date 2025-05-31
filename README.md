@@ -87,13 +87,13 @@ Pengguna dapat melakukan pemesanan laptop secara langsung melalui sistem, serta 
     - Laptop
       ![image](https://github.com/user-attachments/assets/d352f219-0f52-45f6-b385-af85683a1ee1)
       Menampilkan daftar dari laptop yang telah siap dirakit dan ready untuk dijual, disini ada nama laptop, ada total harga, ada komponen atau spesifikasi dari laptop tersebut dan aksi yakni berisi edit dan hapus, di sisi kanan atas terlihat ada tombol untuk merakit laptop<br><br>
-          - Rakit Laptop
+          - Laptop/Rakit Laptop
             ![image](https://github.com/user-attachments/assets/0901e4b2-b7f4-44b3-8a1e-650748f28d5f)
             Disini bisa ketika laptop dirakit bisa memiliki komponen apa yang di pakai, jadi bisa buat nama laptopnya apa lalu bisa pilih menggunakan spesifikasi seperti apa dan juga stoknya bisa pilih, misal Ram pakai kingston DDR4 stok nya 2<br><br>
-          - Edit
+          - Laptop/Edit
             ![image](https://github.com/user-attachments/assets/2e3fb57a-453b-442d-ac77-03f639d0aafb)
             Disini kita bisa edit nama laptop dan simpan perubahan<br><br>
-          - Hapus
+          - Laptop/Hapus
             ![image](https://github.com/user-attachments/assets/5fdc04c7-4757-4d00-b774-a342100bd27c)
             Disini kita bisa hapus rakitan yang telah kita rakit sebelumnya
 
@@ -105,7 +105,42 @@ Pengguna dapat melakukan pemesanan laptop secara langsung melalui sistem, serta 
 
 
 
- 3. User (Pembeli/Pelanggan)
+ 2. User (Pembeli/Pelanggan)
+    - Halaman Login
+      ![image](https://github.com/user-attachments/assets/1adf2896-c43e-41e4-a94a-3975b65edb11)
+      Disini user bisa login akunnya menggunakan email dan password, jika tida ada akun bisa beralih ke register
+    - Register
+      ![image](https://github.com/user-attachments/assets/0222b59a-9c8f-46ec-9869-8a903a7ea808)
+      Disini user bisa daftar akun untuk bisa login dan melihat dashboard user, dalam form meminta nama, email dan password
+    - Dashboard
+      ![image](https://github.com/user-attachments/assets/bbbed6bc-3991-46f5-a3f8-5bb69479d931)
+      Disini user bisa lihat stok laptop yang ready yang dimana tertera harga dan juga spesifikasinya, kanan atas ada logout akun dan juga ada nama dari current user, user juga bisa order disini<br><br>
+          - Dashboard/Order Sekarang
+          ![image](https://github.com/user-attachments/assets/3028a4bb-1d15-4969-ab27-86df645f01b6)
+          disini user bisa memasukkan form data diri seperti nama, alamat dan juga nomor hp, ada metode pembayaran dan juga ceklis laptop yang ingin dibeli
+          - Order/Detail pesanan
+          ![Screenshot 2025-05-31 174100](https://github.com/user-attachments/assets/b8710c29-c7cb-4dd9-905f-40bbc9f66f4c)
+          Disini bisa melihat invoice detail pesanan yang dibuat dan bisa download bukti via pdf
+          - Invoice PDF
+          ![image](https://github.com/user-attachments/assets/17cf42c1-3670-4929-8fc3-653889716ba1)
+          terdapat data detail dari semua nya ada data user bahkan barang yang dibeli dengan sub total harga
+          - Order
+          ![image](https://github.com/user-attachments/assets/03748f85-b62b-4a79-b530-1aa99bdfde82)
+          terdapat beberapa aksi yang bisa dilakukan user apakah untuk detail yang di direct ke invoice dan juga bisa membatalkan pesanan
+
+
+    - Bonus (Dashboard Admin)
+      ![image](https://github.com/user-attachments/assets/d5a62904-2de3-4930-b03b-46ad300647c7)
+      ketika pesanan dibuat maka di halaman admin dashboard terlihat jumlah pesanan bertambah, laptop yang berkurang dan juga total pendapatan dari user yang memesan
+
+
+
+
+      
+
+
+    
+
 
 
 
