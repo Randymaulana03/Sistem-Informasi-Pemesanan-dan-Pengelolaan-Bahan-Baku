@@ -76,25 +76,23 @@ Pengguna dapat melakukan pemesanan laptop secara langsung melalui sistem, serta 
       semua komponen tersusun dengan rapi dengan field Nama, Jenis, Stok, Harga Per Unit, Serta Aksi yang dimana bisa edit dan juga hapus<br><br>
           - Komponen/Tambah Komponen
         ![image](https://github.com/user-attachments/assets/3ff5ffab-e5b6-4943-9f74-e8ca3e3234f4)
-        Merupakan form untuk menambahkan nama komponen, jenis nya apa, stok ada berapa dan harga per unit, ketika di klik tombol simpan maka akan tersedia di daftar komponen
-
+        Merupakan form untuk menambahkan nama komponen, jenis nya apa, stok ada berapa dan harga per unit, ketika di klik tombol simpan maka akan tersedia di daftar komponen<br><br>
           - Komponen/Edit
         ![image](https://github.com/user-attachments/assets/fd1b6083-2cd9-4716-bc9a-46bb670070df)
-        dalam edit terlihat sama dengan form tambah komponen hanya saja disini kita ada tombol untuk update komponen
-
+        dalam edit terlihat sama dengan form tambah komponen hanya saja disini kita ada tombol untuk update komponen<br><br>
           - Komponen/Hapus
         ![image](https://github.com/user-attachments/assets/1cac4e23-1620-4d3d-9659-a76750d7b897)
         Di menu hapus, sistem akan memberikan pop up untuk konformasi apakah benar benar akan menghapus komponen ini
 
     - Laptop
       ![image](https://github.com/user-attachments/assets/d352f219-0f52-45f6-b385-af85683a1ee1)
-      Menampilkan daftar dari laptop yang telah siap dirakit dan ready untuk dijual, disini ada nama laptop, ada total harga, ada komponen atau spesifikasi dari laptop tersebut dan aksi yakni berisi edit dan hapus, di sisi kanan atas terlihat ada tombol untuk merakit laptop
+      Menampilkan daftar dari laptop yang telah siap dirakit dan ready untuk dijual, disini ada nama laptop, ada total harga, ada komponen atau spesifikasi dari laptop tersebut dan aksi yakni berisi edit dan hapus, di sisi kanan atas terlihat ada tombol untuk merakit laptop<br><br>
           - Rakit Laptop
             ![image](https://github.com/user-attachments/assets/0901e4b2-b7f4-44b3-8a1e-650748f28d5f)
-            Disini bisa ketika laptop dirakit bisa memiliki komponen apa yang di pakai, jadi bisa buat nama laptopnya apa lalu bisa pilih menggunakan spesifikasi seperti apa dan juga stoknya bisa pilih, misal Ram pakai kingston DDR4 stok nya 2
+            Disini bisa ketika laptop dirakit bisa memiliki komponen apa yang di pakai, jadi bisa buat nama laptopnya apa lalu bisa pilih menggunakan spesifikasi seperti apa dan juga stoknya bisa pilih, misal Ram pakai kingston DDR4 stok nya 2<br><br>
           - Edit
             ![image](https://github.com/user-attachments/assets/2e3fb57a-453b-442d-ac77-03f639d0aafb)
-            Disini kita bisa edit nama laptop dan simpan perubahan
+            Disini kita bisa edit nama laptop dan simpan perubahan<br><br>
           - Hapus
             ![image](https://github.com/user-attachments/assets/5fdc04c7-4757-4d00-b774-a342100bd27c)
             Disini kita bisa hapus rakitan yang telah kita rakit sebelumnya
