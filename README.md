@@ -10,6 +10,24 @@ Link PPT: https://www.canva.com/design/DAGo6SDRLY4/gYpDMNnOCsSSdAHNuMBcJA/edit?u
 # 1. [Proses Pembuatan](#proses-pembuatan)
 # 2. [Deskripsi dan Tampilan](#deskripsi-dan-tampilan)
 
+
+## 📑 Table of Contents
+
+- [Proses Pembuatan](#proses-pembuatan)
+- [Deskripsi dan Tampilan](#deskripsi-dan-tampilan)
+
+---
+
+## Proses Pembuatan
+
+Ini bagian proses pembuatan...
+
+---
+
+## Deskripsi dan Tampilan
+
+Ini bagian deskripsi dan tampilan...
+
 -------------------------------------------------------------------------------------------------------<br>
 
 ## 1. Proses pembuatan
@@ -54,6 +72,11 @@ NOTE* COMPOSSER UDAH TERINSTALL<br>
 --------------------------------------------------------------------------------------------
 ## 2. Deskripsi dan tampilan
 
+
+** Deskripsi **
+** Tampilan **
+ 1. Admin (Pegawai)
+ 2. User (Pembeli/Pelanggan)
 
 
 
