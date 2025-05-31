@@ -54,7 +54,12 @@ NOTE* COMPOSSER UDAH TERINSTALL<br>
 --------------------------------------------------------------------------------------------
 ## 2. Deskripsi dan tampilan
 
-**Deskripsi**
+**Deskripsi** <br>
+Sistem ini dirancang untuk mengelola proses pemesanan serta pengolahan bahan baku di sebuah pabrik yang memproduksi laptop dengan tampilan yang sederhana. Sistem ini berfungsi untuk mencatat dan mengorganisasi stok komponen secara terstruktur termasuk detail seperti nama komponen, tipe, harga, dan jumlah stok yang tersedia
+
+Pada saat proses perakitan laptop berlangsung, stok komponen akan otomatis berkurang sesuai penggunaan, dan produk laptop yang telah selesai dirakit akan ditampilkan pada halaman pengguna lengkap dengan harga jualnya
+
+Pengguna dapat melakukan pemesanan laptop secara langsung melalui sistem, serta mengunduh invoice pemesanan dalam format PDF sebagai bukti transaksi
 **Tampilan**
  1. Admin (Pegawai)
  2. User (Pembeli/Pelanggan)
