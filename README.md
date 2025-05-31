@@ -65,7 +65,46 @@ Pengguna dapat melakukan pemesanan laptop secara langsung melalui sistem, serta 
  1. Admin (Pegawai)
     - Halaman Login
       ![image](https://github.com/user-attachments/assets/0bb6ff89-78bb-4929-9d79-2670394d43f0)
-      Admin (pegawai) tidak ada fitur registrasi kenapa? karena orang dalam tidak perlu registrasi sebab developer langsung memberikan superadmin ke para pegawai agar bisa login
+      Admin (pegawai) tidak ada fitur registrasi kenapa? karena orang dalam tidak perlu registrasi sebab developer langsung memberikan superadmin ke para pegawai agar bisa login. Disini admin diminta username dan juga password
+    - Dashboard
+      ![image](https://github.com/user-attachments/assets/c71fa22f-b903-4158-ac76-d4cbdcdf3f9a)
+      Memberikan informasi mengenai berapa jumlah pesanan, berapa laptop yang tersedia, komponen yang tersedia di gudang bahkan total pendapatan dari semua pesanan<br>
+      Ada navigasi untuk menuju ke komponen dan laptop
+    - Komponen
+      ![image](https://github.com/user-attachments/assets/fa9b74cd-9651-4f8a-b2de-3d26ce9a103d)
+      menampilkan daftar komponen yang tersedia, disini bisa mencari sesuai jenis komponen misal RAM, hanya menampilkan RAM saja <br>
+      semua komponen tersusun dengan rapi dengan field Nama, Jenis, Stok, Harga Per Unit, Serta Aksi yang dimana bisa edit dan juga hapus
+          - Komponen/Tambah Komponen
+        ![image](https://github.com/user-attachments/assets/3ff5ffab-e5b6-4943-9f74-e8ca3e3234f4)
+        Merupakan form untuk menambahkan nama komponen, jenis nya apa, stok ada berapa dan harga per unit, ketika di klik tombol simpan maka akan tersedia di daftar komponen
+
+          - Komponen/Edit
+        ![image](https://github.com/user-attachments/assets/fd1b6083-2cd9-4716-bc9a-46bb670070df)
+        dalam edit terlihat sama dengan form tambah komponen hanya saja disini kita ada tombol untuk update komponen
+
+          - Komponen/Hapus
+        ![image](https://github.com/user-attachments/assets/1cac4e23-1620-4d3d-9659-a76750d7b897)
+        Di menu hapus, sistem akan memberikan pop up untuk konformasi apakah benar benar akan menghapus komponen ini
+
+    - Laptop
+      ![image](https://github.com/user-attachments/assets/d352f219-0f52-45f6-b385-af85683a1ee1)
+      Menampilkan daftar dari laptop yang telah siap dirakit dan ready untuk dijual, disini ada nama laptop, ada total harga, ada komponen atau spesifikasi dari laptop tersebut dan aksi yakni berisi edit dan hapus, di sisi kanan atas terlihat ada tombol untuk merakit laptop
+          - Rakit Laptop
+            ![image](https://github.com/user-attachments/assets/0901e4b2-b7f4-44b3-8a1e-650748f28d5f)
+            Disini bisa ketika laptop dirakit bisa memiliki komponen apa yang di pakai, jadi bisa buat nama laptopnya apa lalu bisa pilih menggunakan spesifikasi seperti apa dan juga stoknya bisa pilih, misal Ram pakai kingston DDR4 stok nya 2
+          - Edit
+            ![image](https://github.com/user-attachments/assets/2e3fb57a-453b-442d-ac77-03f639d0aafb)
+            Disini kita bisa edit nama laptop dan simpan perubahan
+          - Hapus
+            ![image](https://github.com/user-attachments/assets/5fdc04c7-4757-4d00-b774-a342100bd27c)
+            Disini kita bisa hapus rakitan yang telah kita rakit sebelumnya
+
+            
+
+
+
+
+
 
 
  3. User (Pembeli/Pelanggan)
